@@ -1,0 +1,103 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "Ballu",
+      "lastName": "Ram",
+      "email": "ballu@gmail.com",
+      "dob": "2023-01-03T18:30:00.0002",
+      "gender": "male",
+      "education": "BCA",
+      "company": "Google",
+      "experience": "4",
+      "package": "12",
+      "id": 1
+    },
+    {
+      "firstName": "Ravi",
+      "lastName": "kiran",
+      "email": "ravi@gmail.com",
+      "dob": "2024-01-09T18:30:00.000Z",
+      "gender": "",
+      "education": "Graduation",
+      "company": "yahoo",
+      "experience": 5,
+      "package": "",
+      "id": 2
+    },
+    {
+      "firstName": "Ravi",
+      "lastName": "kiran",
+      "email": "ravi@gmail.com",
+      "dob": "2024-01-10T18:30:00.000Z",
+      "gender": "",
+      "education": "Postgraduation",
+      "company": "Yahoo",
+      "experience": 5,
+      "package": "",
+      "id": 3
+    },
+    {
+      "firstName": "Surya ",
+      "lastName": "Teja",
+      "email": "surya@gmail.com",
+      "dob": "2024-01-15T18:30:00.000Z",
+      "gender": "",
+      "education": "Diploma",
+      "company": "Wipro",
+      "experience": 8,
+      "package": "",
+      "id": 4
+    },
+    {
+      "firstName": "Surya ",
+      "lastName": "Teja",
+      "email": "surya@gmail.com",
+      "dob": "2024-01-15T18:30:00.000Z",
+      "gender": "",
+      "education": "Diploma",
+      "company": "Wipro",
+      "experience": 8,
+      "package": "",
+      "id": 5
+    },
+    {
+      "firstName": "Surya ",
+      "lastName": "Teja",
+      "email": "surya@gmail.com",
+      "dob": "2024-01-15T18:30:00.000Z",
+      "gender": "",
+      "education": "Diploma",
+      "company": "Wipro",
+      "experience": 8,
+      "package": "",
+      "id": 6
+    }
+  ]
+}
